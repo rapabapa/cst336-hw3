@@ -1,0 +1,46 @@
+#search {
+  background-color: #4CAF50;
+  border: 1px red;
+  color: yellow;
+  padding: 4px 4px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#zip {
+  background-color: green;
+  color
+}
+
+footer {
+  text-align: center;
+}
+
+#showsearch {
+  text-align: center;
+  background-color: yellow;
+  width: 300px;
+  border: 25px solid yellow;
+  padding: 50px; 
+  margin-left: auto;
+  margin-right: auto;
+  font-style: bold;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  color: red;
+  letter-spacing: 2px;
+}
+
+#searchArea {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: #002966;
+}
+
+body {
+  background-color: #f2ffe6;
+}
